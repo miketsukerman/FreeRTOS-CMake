@@ -24,12 +24,12 @@
  *
  */
 
-#ifndef QUEUE_ACCESS_TEST
-#define QUEUE_ACCESS_TEST
+#ifndef AB0503E5_3BA2_4903_804E_CCD108DC1FA7
+#define AB0503E5_3BA2_4903_804E_CCD108DC1FA7
 
 void vStartInterruptQueueTasks( void );
 BaseType_t xAreIntQueueTasksStillRunning( void );
 BaseType_t xFirstTimerHandler( void );
 BaseType_t xSecondTimerHandler( void );
 
-#endif /* QUEUE_ACCESS_TEST */
+#endif /* AB0503E5_3BA2_4903_804E_CCD108DC1FA7 */
