@@ -1,6 +1,5 @@
 add_library(startup 
     src/startup_gcc.c
-    src/printf-stdarg.c
 )
 
 set_target_properties(startup 

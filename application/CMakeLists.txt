@@ -1,5 +1,7 @@
 add_executable(core0 
     src/main.cpp
+    src/hooks.cpp 
+    src/printf-stdarg.c
     src/IntQueue.c
     src/IntQueueTimer.c
 )
